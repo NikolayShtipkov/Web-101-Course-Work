@@ -1,2 +1,2 @@
-# Web-101-Course-Work
+# Web Programming 101
 Course work for web programming 101
